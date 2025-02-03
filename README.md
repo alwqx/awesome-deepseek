@@ -45,7 +45,7 @@ ollama run deepseek-r1:14b
 
 ## 使用 LobeChat Local 版本
 
-1. 安装 docker
+1. 安装 docker，访问 https://www.docker.com/products/docker-desktop/，选择适合自己的版本，下载安装。
 2. 直接在终端运行
 
 ```shell
