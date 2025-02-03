@@ -59,7 +59,7 @@ docker run -d --name lobechat-local --net host --restart always \
 ## DeepSeek-R1 满血模型
 
 1. 使用 [DeepSeek 官方服务](https://www.deepseek.com/)
-2. 使用 [硅基流动 SiliconFlow](https://cloud.siliconflow.cn/models)
+2. 使用 [硅基流动 SiliconFlow](https://cloud.siliconflow.cn/models)，可以使用我的邀请连接注册，免费赠送 2000 万 tokens https://cloud.siliconflow.cn/i/kprJTcyG
 
 ## Demo
 
